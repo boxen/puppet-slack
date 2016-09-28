@@ -1,5 +1,7 @@
 # Slack Puppet Module for Boxen
 
-This module is deprecated. If you install this module, it will install version 1.32 and won't auto update.
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-Please install Slack from the AppStore from now on. [AppStore Link](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8)
+[1]: https://caskroom.github.io/
+[2]: https://github.com/boxen/puppet-boxen/blob/master/manifests/personal.pp#L14-L17
